@@ -21,7 +21,7 @@ A simple and responsive **frontend-only Appointment Management System** built us
 
 - Node.js and npm installed on your machine
 
-##Project UI
+Project UI
 ![image](https://github.com/user-attachments/assets/1db3437a-da9e-4e93-825a-0630bb0e1a48)
 
 
