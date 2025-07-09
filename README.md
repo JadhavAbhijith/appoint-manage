@@ -7,8 +7,6 @@ A simple and responsive **frontend-only Appointment Management System** built us
 - Add appointments with title, date, and time
 - View a list of all appointments
 - Delete appointments
-- Frontend only – no backend/API
-- Clean, responsive UI
 
 ## 💻 Tech Stack
 
